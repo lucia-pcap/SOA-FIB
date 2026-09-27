@@ -19,7 +19,7 @@ Design and implementation of **ZeOS**, an educational operating system, starting
 - Study notes covering both midterm exams, written from the lectures.
 - Past exams.
 
-## 📁 Repository structure
+##  Repository structure
 
 | Folder | Content |
 |---|---|
