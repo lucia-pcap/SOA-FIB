@@ -1,16 +1,30 @@
-# Asignatura de Sistemas Operativos Avanzados
-https://docencia.ac.upc.edu/FIB/grau/SOA/
-## TEORÍA
-- Apuntes para los dos parciales a partir de las clases de teoría.
-- Exámenes resueltos.
-- Transparencias 
+# SOA — Advanced Operating Systems (FIB-UPC)
 
-## LABORATORIO
-Consiste en diseñar e implementar un sistema operativo llamado ZeOS a partir de un código base. El laboratorio se divide en dos fases:
+Course materials and lab work for [Sistemas Operativos Avanzados (SOA)](https://docencia.ac.upc.edu/FIB/grau/SOA/) at the Barcelona School of Informatics (FIB-UPC).
 
-- **Lab**: 
-  - **Entrega 1.** Implementar llamadas a sistema y gestión de interrupciones.
-  - **Entrega 2.** Diseñar e implementar las estructuras de datos y algoritmo para la gestión de procesos en un sistema multiproceso.
-   
-- **Proyecto.** Implementar un juego a partir del código de las entregas anteriores. El juego desarrollado ha sido el de **Space Invaders**.
-> Nota Proyecto = 10/10
+##  Project: Space Invaders on a custom OS kernel
+
+Final project (**grade: 10/10**): a Space Invaders game running on **ZeOS**, an operating system built during the course lab. The game runs on top of the kernel features implemented in the previous deliverables: system calls, interrupt handling and process management.
+
+## Lab: building ZeOS
+
+Design and implementation of **ZeOS**, an educational operating system, starting from a minimal base code:
+
+- **Deliverable 1:** system calls and interrupt handling.
+- **Deliverable 2:** data structures and scheduling algorithms for process management in a multiprocess system.
+- **Final project:** Space Invaders, built on top of the previous deliverables.
+
+## Theory
+
+- Study notes covering both midterm exams, written from the lectures.
+- Past exams.
+
+## 📁 Repository structure
+
+| Folder | Content |
+|---|---|
+| `Lab/` | ZeOS deliverables 1 and 2 |
+| `Proyecto/` | Space Invaders on ZeOS |
+| `Apuntes/` | Theory notes |
+| `Exámenes/` | Exams |
+| `Transparencias/` | Course slides |
