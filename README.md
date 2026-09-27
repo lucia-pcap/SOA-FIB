@@ -17,7 +17,8 @@ Design and implementation of **ZeOS**, an educational operating system, starting
 ## Theory
 
 - Study notes covering both midterm exams, written from the lectures.
-- Past exams.
+- Exams.
+- Slides.
 
 ##  Repository structure
 
