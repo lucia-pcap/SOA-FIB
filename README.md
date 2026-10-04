@@ -3,6 +3,7 @@
 Course materials and lab work for [Sistemas Operativos Avanzados (SOA)](https://docencia.ac.upc.edu/FIB/grau/SOA/) at the Barcelona School of Informatics (FIB-UPC).
 
 ##  Project: Space Invaders on a custom OS kernel
+![Space Invaders en ZeOS](demo.gif)
 
 Final project (**grade: 10/10**): a Space Invaders game running on **ZeOS**, an operating system built during the course lab. The game runs on top of the kernel features implemented in the previous deliverables: system calls, interrupt handling and process management.
 
