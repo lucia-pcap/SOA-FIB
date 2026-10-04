@@ -7,6 +7,12 @@ Course materials and lab work for [Sistemas Operativos Avanzados (SOA)](https://
 
 Final project (**grade: 10/10**): a Space Invaders game running on **ZeOS**, an operating system built during the course lab. The game runs on top of the kernel features implemented in the previous deliverables: system calls, interrupt handling and process management.
 
+### Requirements
+
+- **OS:** Ubuntu 22.04 (also tested on 24.04)
+- **Compiler:** GCC
+- **Emulator:** [Bochs 2.6.7](https://bochs.sourceforge.io/)
+
 ## Lab: building ZeOS
 
 Design and implementation of **ZeOS**, an educational operating system, starting from a minimal base code:
